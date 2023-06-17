@@ -5,7 +5,7 @@ I am a MERN stack web developer. Completed my graduation in B-Tech Civil Enginee
 
 As a web developer, I possess a strong understanding of the latest technologies and have completed numerous projects that demonstrate my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
 
-- 🔭 I’m currently working on [Companion collaboration tool](https://github.com/jithinksunil/Companion-PM-Sollution-FrontEnd.git) project
+- 🔭 I’m currently working on [Companion-collaboration-tool](https://github.com/jithinksunil/Companion-PM-Sollution-FrontEnd.git) project
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything😂
