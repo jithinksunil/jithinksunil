@@ -44,7 +44,7 @@ As a web developer, I possess a strong understanding of the latest technologies 
   </td>
   <td>
     <p align='center'>
-      <img alt="https://github-readme-stats.vercel.app/api/top-langs?username=jithinksunil&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true&">
+      <img alt="[https://github-readme-stats.vercel.app/api/top-langs?username=jithinksunil](https://github-readme-stats.vercel.app/api/top-langs?username=jithinksunil)&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true&">
     </p>
   </td>
  </tr>
