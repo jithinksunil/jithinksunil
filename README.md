@@ -38,7 +38,7 @@ As a web developer, I possess a strong understanding of the latest technologies 
 <tr>
   <td>
     <p align='center'>
-      <img alt="jithinksunil's streak" src='https://github-readme-streak-stats.herokuapp.com?user=jithinksunil&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
+      <img alt="jithinksunil's streak" src='https://github-readme-streak-stats.herokuapp.com/?user=jithinksunil&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
     </p>
     
   </td>
