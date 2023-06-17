@@ -6,7 +6,7 @@ I am a MERN stack web developer. Completed my graduation in B-Tech Civil Enginee
 As a web developer, I possess a strong understanding of the latest technologies and have completed numerous projects that demonstrate my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
 
 - 🔭 I’m currently working on [Companion-collaboration-tool](https://github.com/jithinksunil/Companion-PM-Sollution-FrontEnd.git) project
-- 🌱 I’m currently learning Typescript ,Docker & Unit testing
+- 🌱 I’m currently learning Typescript, Docker & Unit testing
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything😂
 - 📫 Reach me [@jithinksunil](mailto:jithinksunil1996@gmail.com)
@@ -52,4 +52,4 @@ As a web developer, I possess a strong understanding of the latest technologies 
 
 <h3>🔗Tags that I can relate</h3>
 
-`javascript` `typescript` `java` `nextjs` `Docker` ``Unit testing `html` `css` `bootstrap` `tailwind` `react` `redux` `nodejs` `express` `handlebars` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx` `figma` `illustrator` `photoshop`
+`javascript` `typescript` `java` `nextjs` `Docker` `Unit testing `html` `css` `bootstrap` `tailwind` `react` `redux` `nodejs` `express` `handlebars` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx` `figma` `illustrator` `photoshop`
