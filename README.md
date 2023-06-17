@@ -52,4 +52,4 @@ As a web developer, I possess a strong understanding of the latest technologies 
 
 <h3>🔗Tags that I can relate</h3>
 
-`javascript` `typescript` `java` `nextjs` `Docker` `Unit testing` `html` `css` `bootstrap` `tailwind` `react` `redux` `nodejs` `express` `handlebars` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx` `figma` `illustrator` `photoshop`
+`javascript` `typescript` `java` `nextjs` `Docker` `Unit testing` `html` `css` `bootstrap` `tailwind` `react` `redux` `nodejs` `express` `handlebars` `webpack` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `postgresql` `aws ec2` `nginx` `figma` `illustrator` `photoshop` `SketchUp`
