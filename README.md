@@ -1,11 +1,11 @@
 
 <h1>Hi👋, I'm Jithin K Sunil </h1>
 
-I am a Full stack web developer. Completed my graduation in B-Tech.
+I am a Full stack developer. Completed my graduation in B-Tech.
 
 As a web developer, I possess a strong understanding of the latest technologies and have completed numerous projects that demonstrate my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
 
-- 🔭 I’m currently working on [Companion-collaboration-tool](https://github.com/jithinksunil/Companion-PM-Sollution-FrontEnd.git) project
+- 🔭 I’m currently working on [AI.fred](https://penguin.abcxchange.com/organization/auth/signin) project
 - 🌱 I’m currently learning Typescript, Docker & Unit testing
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything😂
