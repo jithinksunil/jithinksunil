@@ -3,7 +3,7 @@
 
 I am a Full stack developer. Completed my graduation in B-Tech.
 
-As a web developer, I possess a strong understanding of the latest technologies and have completed numerous projects that demonstrate my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
+As a developer, I possess a strong understanding of the latest technologies and have completed numerous projects that demonstrate my proficiency. With a passion for coding and a desire for personal and professional growth, I am eager to leverage my skills to pursue opportunities for further growth and development as a developer
 
 - 🔭 I’m currently working on [AI.fred](https://penguin.abcxchange.com/organization/auth/signin) project
 - 🌱 I’m currently learning Typescript, Docker & Unit testing
